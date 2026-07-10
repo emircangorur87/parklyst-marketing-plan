@@ -74,10 +74,10 @@ ParkLyst is a digital platform that lets drivers find, reserve, and pay for near
 
 ## Repository contents
 
-- [`portfolio/parklyst-case-study.pdf`](portfolio/parklyst-case-study.pdf) — concise, recruiter-friendly case study
-- [`portfolio/parklyst-case-study.pptx`](portfolio/parklyst-case-study.pptx) — editable presentation
-- [`docs/methodology.md`](docs/methodology.md) — analytical frameworks and strategic tools used
-- [`docs/privacy-and-authorship.md`](docs/privacy-and-authorship.md) — privacy and team-project disclosure
+- [`parklyst-case-study.pdf`](parklyst-case-study.pdf) — concise, recruiter-friendly case study
+- [`parklyst-case-study.pptx`](parklyst-case-study.pptx) — editable presentation
+- [`methodology.md`](methodology.md) — analytical frameworks and strategic tools used
+- [`privacy-and-authorship.md`](privacy-and-authorship.md) — privacy and team-project disclosure
 
 ## Limitations
 
